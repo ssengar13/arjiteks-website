@@ -1,0 +1,16 @@
+{
+    "name": "sajida/test-composer",
+    "autoload": {
+        "psr-4": {
+            "Sajida\\TestComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sajida"
+        }
+    ],
+    "require": {
+        "james-heinrich/getid3": "^1.9"
+    }
+}
